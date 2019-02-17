@@ -1,0 +1,79 @@
+
+*** These modified files were found in JOE when it aborted on Sun Feb 17 13:00:12 2019
+*** JOE was aborted because the terminal closed
+
+*** File '/home/ali.cholakov/Projects/Exam-DevOps/project/dof-exam-master/.git/COMMIT_EDITMSG'
+git
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   README.md
+#	new file:   app/Readme.md
+#	new file:   app/images/chef-logo.png
+#	new file:   app/images/consul-logo.png
+#	new file:   app/images/docker-logo.png
+#	new file:   app/images/elastic-stack-logo.png
+#	new file:   app/images/kubernetes-logo.png
+#	new file:   app/images/minikube-logo.png
+#	new file:   app/images/nomad-logo.png
+#	new file:   app/images/packer-logo.png
+#	new file:   app/images/puppet-logo.png
+#	new file:   app/images/salt-stack-logo.png
+#	new file:   app/images/terraform-logo.png
+#	new file:   app/images/vault-logo.png
+#	new file:   app/index.php
+#	new file:   docker-compose.yml
+#	new file:   nginx.yaml
+#	new file:   nginx/Dockerfile
+#	new file:   nginx/Readme.md
+#	new file:   nginx/app/Readme.md
+#	new file:   nginx/app/images/chef-logo.png
+#	new file:   nginx/app/images/consul-logo.png
+#	new file:   nginx/app/images/docker-logo.png
+#	new file:   nginx/app/images/elastic-stack-logo.png
+#	new file:   nginx/app/images/kubernetes-logo.png
+#	new file:   nginx/app/images/minikube-logo.png
+#	new file:   nginx/app/images/nomad-logo.png
+#	new file:   nginx/app/images/packer-logo.png
+#	new file:   nginx/app/images/puppet-logo.png
+#	new file:   nginx/app/images/salt-stack-logo.png
+#	new file:   nginx/app/images/terraform-logo.png
+#	new file:   nginx/app/images/vault-logo.png
+#	new file:   nginx/app/index.php
+#	new file:   nginx/conf/site.conf
+#	new file:   php.yaml
+#	new file:   php/Dockerfile
+#	new file:   php/Readme.md
+#	new file:   php/app/Readme.md
+#	new file:   php/app/images/chef-logo.png
+#	new file:   php/app/images/consul-logo.png
+#	new file:   php/app/images/docker-logo.png
+#	new file:   php/app/images/elastic-stack-logo.png
+#	new file:   php/app/images/kubernetes-logo.png
+#	new file:   php/app/images/minikube-logo.png
+#	new file:   php/app/images/nomad-logo.png
+#	new file:   php/app/images/packer-logo.png
+#	new file:   php/app/images/puppet-logo.png
+#	new file:   php/app/images/salt-stack-logo.png
+#	new file:   php/app/images/terraform-logo.png
+#	new file:   php/app/images/vault-logo.png
+#	new file:   php/app/index.php
+#	new file:   redis.yaml
+#	new file:   redis/Readme.md
+#
+
+*** File '(Unnamed)'
+/home/ali.cholakov/Projects/upnetix.com/up-web-site/.git/MERGE_MSG
+/home/ali.cholakov/Projects/Exam-DevOps/project/dof-exam-master/.git/COMMIT_EDITMSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
